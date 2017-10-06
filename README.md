@@ -120,21 +120,34 @@ dimecoindirtiest.conf
 --------------------
 
 > rpcuser=dimecoindirtiestrpc
+
 > rpcpassword=SomethingLongDifferentCharacters
+
 > rpcallowip=127.0.0.1
+
 > daemon=1
+
 > server=1
+
 > rpcport=6523
+
 > port=6524
+
 > addnode=198.245.50.213:6524
+
 > addnode=24.11.45.99:6524
+
+
+-----
 
 There are not many connections to the network. The above node is hard coded into the wallet (without port). 
 
 Nodes also hard coded **without** a port are these (port included):
 
 > addnode=184.164.129.202:62649
+
 > addnode=99.0.109.149:61598
+
 > addnode=148.251.126.230:47820
 
 
