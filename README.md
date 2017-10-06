@@ -16,7 +16,27 @@
 -----
 
 
-[TOC]
+
+
+
+<ul>
+<li><a href="#dimecoindirtiest">dimecoindirtiest</a><ul>
+<li><a href="#wallet">Wallet </a></li>
+</ul>
+</li>
+<li><a href="#dirty-specifications">Dirty Specifications</a><ul>
+<li><a href="#explorer">Explorer</a></li>
+</ul>
+</li>
+<li><a href="#wallet-bkg">Wallet bkg</a><ul>
+<li><a href="#dimecoindirtiestconf">dimecoindirtiest.conf</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</p>
+
+
 
 
 -----
