@@ -96,6 +96,6 @@ dimecoindirtiest.conf
     port=6524
     addnode=198.245.50.213:6524
 
------
+
 
 
