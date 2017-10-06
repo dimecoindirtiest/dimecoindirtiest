@@ -1,60 +1,101 @@
-## Dimecoindirtiest [DIRTY] ##
+**dimecoindirtiest**
+=========
+
+----
+
+
+![dirty](https://cdn.pbrd.co/images/GNGcgwU.png)
+
+
+
+
+-----
+
+
+[TOC]
+
 
 -----
 
 
 
-The non-scam alternative to dimecoin that became a scam.
 
-DIRTY is cloned from Hirocoin, X11
+
+*The official repository for dimecoindirtiest. Wallet and source have just been updated (no mandatory swap necessary)*
+
+
+-----
+
+
+
+Wallet and bootstrap
+-------------
+
+
+[To be  uploaded](https://)
+
+-----
+
+Dirty Specifications
+=======================
+
+
+
+Item        |  Spec     |
+ --------  |  --------  
+Coin:         |  dimecoindirtiest    |  
+Ticker:       |  DIRTY    | 
+Algorithm:       |  x11    |
+Reward Type:       |  POW    | 
+Block Spacing:       |  2 minutes    |  
+RPC:       |  6523    | 
+P2P:       |  6524    |
+POW Reward:       |  10,000    | 
+
+
 
 
 ------
 
-(Updated .conf)
+Explorer
+-------------
+
+[Explorer](http://dirty.miningalts.com)
+
+
+
+
+------
+
+
+Wallet bkg
+==============
+
+
+
+A colorful dimecoindirtiest
+
+
+
+![dirt bkg.png](https://cdn.pbrd.co/images/GNGezd7.png)
+
+
+-----
+
+
 
 dimecoindirtiest.conf
+--------------------
 
-username=
-password=
-daemon=1
-listen=1
-rpcallowip=127.0.0.1
-rpcport=6523
-port=6524
-addnode=198.245.50.213
-
-
-Check Cryptoguru for a list of recently seen nodes: http://cryptoguru.tk/NetworkInfo/index.php?Currency=DIRTY
-
-------
-
-
-The above are not definitive, so play around with them.
-
-------
-
-WINDOWS
-
-https://drive.google.com/file/d/0B9hDN1DGGHtXdlJaTlY0c1dHVTQ/view
-
-or
-
-https://mega.nz/#!TxxXlCCJ!pSn1_1_1UW7NV1ntHlXXtUBKLJqyVoYXbMljPNHqVp8
-
-------
-
-MAC OSX
-
-https://drive.google.com/file/d/0B9hDN1DGGHtXcDNTWWZsUWR6VjA/view
-
-or
-
-https://mega.nz/#!Hs4jTA6Q!3v7SC9dYtHF2PL9H7st_L2jSpSmF6xVGjAexoLz-VkQ
-
-------
-
-Explorer (C.T Giant): http://dirty.miningalts.com
-
+    rpcuser=dimecoindirtiestrpc
+    rpcpassword=SomethingLongDifferentCharacters
+    rpcallowip=127.0.0.1
+    daemon=1
+    server=1
+    rpcport=6523
+    port=6524
+    addnode=198.245.50.213:6524
 
 -----
+
+
